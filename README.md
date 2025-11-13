@@ -23,7 +23,13 @@ Vite: Build tool and dev server
 React Router: Client-side routing
 Axios: HTTP client for API calls
 Tailwind CSS: Utility-first CSS framework
+
+
+
+
+
 Project Structure
+
 
 doctor-appointment-booking-system/
 ├── app.py                 # Flask application entry point
@@ -43,6 +49,9 @@ doctor-appointment-booking-system/
 │   ├── package.json
 │   └── vite.config.js
 └── README.md
+
+
+
 Installation & Setup
 Prerequisites
 Python 3.8+
@@ -52,7 +61,7 @@ Backend Setup
 Clone the repository
 
 
-git clone <repository-url>
+git clone <https://github.com/abdulrahman1215/Doctor-Appointment-Booking-System>
 cd doctor-appointment-booking-system
 Create virtual environment
 
